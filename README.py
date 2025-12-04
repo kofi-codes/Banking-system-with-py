@@ -34,3 +34,5 @@ def main():
        print("Invalid choice")
   
 print("Have a nice a day")
+if __name__ == "__main__":
+  main()
